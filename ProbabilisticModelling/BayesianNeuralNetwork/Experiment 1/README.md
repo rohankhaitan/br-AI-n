@@ -7,5 +7,5 @@ Overview :
 - Comparison of computation time in Julia and Python
 
 Code Reference :
-https://docs.juliahub.com/ADCME/b8Ld2/0.5.4/bnn/
-http://krasserm.github.io/2019/03/14/bayesian-neural-networks/
+- https://docs.juliahub.com/ADCME/b8Ld2/0.5.4/bnn/
+- http://krasserm.github.io/2019/03/14/bayesian-neural-networks/
